@@ -177,8 +177,8 @@ section {
 }
 .section__pic-containers {
   display: flex;
-  height: 100px;
-  width: 100px;
+  height: 900px;
+  width: 900px;
   margin: auto 0;
 }
 
